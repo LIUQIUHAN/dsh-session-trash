@@ -1,6 +1,6 @@
 {
   "name": "@dsh2030/session-trash",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "把「删除会话」变成可恢复操作：移入回收站、一键还原、彻底清除，支持对话预览与按天自动清理。",
   "type": "module",
   "main": "./lib/index.mjs",
