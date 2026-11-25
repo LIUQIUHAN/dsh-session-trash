@@ -1,0 +1,5 @@
+node_modules/
+*.tgz
+*.log
+lib/index.mjs.bak-*
+.DS_Store
