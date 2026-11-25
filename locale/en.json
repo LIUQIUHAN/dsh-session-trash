@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session trash",
+    "description": "Makes deleting a session recoverable: move it to the trash, restore it, or purge it for good, with conversation preview and scheduled cleanup. Everything stays on this machine."
+  }
+}
