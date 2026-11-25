@@ -73,4 +73,4 @@ dsh plugin add @dsh2030/session-trash
 
 ## 版本
 
-当前 **1.3.1**。历史记录见 [CHANGELOG.md](CHANGELOG.md)。
+当前 **1.3.2**。历史记录见 [CHANGELOG.md](CHANGELOG.md)。
