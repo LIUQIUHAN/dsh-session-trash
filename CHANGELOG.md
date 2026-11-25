@@ -2,7 +2,7 @@
 
 遵循 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)；版本号语义化。
 
-## [1.3.1] - 2026-11-25
+## [1.3.2] - 2026-11-25
 
 ### 修复
 
